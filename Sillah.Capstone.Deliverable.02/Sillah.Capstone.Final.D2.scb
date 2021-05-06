@@ -1,0 +1,894 @@
+<!-- Generated code: DO NOT EDIT! Any changes will void this file. -->
+<!-- AB84A2D4050254E7AD0D63057BC048DC -->
+<opt autoreadsensors="2" class="Scribbler_Worksheet" version="2.0">
+  <_children active="1" activecalls="0" activeout="1" class="Scribbler_Subroutine" color="green" counters="0" subclass="">
+    <_children active="1" activeout="0" class="Scribbler_SubroutineTile" subclass="sub_begin">
+      <action icon="gear_green" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 2.65s" timer="2.65" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="blue" class="Scribbler_CallTile" subclass="">
+      <action call="blue" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_left" left="-100" right="100" text="-100:100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 4.15s" timer="4.15" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="blue" class="Scribbler_CallTile" subclass="">
+      <action call="blue" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_left" left="-100" right="100" text="-100:100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 2.60s" timer="2.60" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 3.80s" timer="3.80" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 5.00s" timer="5.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 4.85s" timer="4.85" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="blue" class="Scribbler_CallTile" subclass="">
+      <action call="blue" />
+    </_children>
+    <_children active="1" activeout="0" call="" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_left" left="-100" right="100" text="-100:100 2.00s" timer="2.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 1.70s" timer="1.70" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="blue" class="Scribbler_CallTile" subclass="">
+      <action call="blue" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_left" left="-100" right="100" text="-100:100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 4.00s" timer="4.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 3.05s" timer="3.05" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 4.30s" timer="4.30" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 2.85s" timer="2.85" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 4.10s" timer="4.10" type="set" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 2.75s" timer="2.75" type="set" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 4.00s" timer="4.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 2.70s" timer="2.70" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 4.00s" timer="4.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 2.60s" timer="2.60" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 4.00s" timer="4.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 2.65s" timer="2.65" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 3.90s" timer="3.90" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 2.45s" timer="2.45" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 3.90s" timer="3.90" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 2.55s" timer="2.55" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 3.90s" timer="3.90" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 2.55s" timer="2.55" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 3.95s" timer="3.95" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="yellow" class="Scribbler_CallTile" subclass="">
+      <action call="yellow" />
+    </_children>
+    <_children active="1" activeout="0" call="orange" class="Scribbler_CallTile" subclass="">
+      <action call="orange" />
+    </_children>
+    <_children active="1" activeout="0" call="red" class="Scribbler_CallTile" subclass="">
+      <action call="red" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_SubroutineTile" subclass="sub_end">
+      <action icon="gear_green" />
+    </_children>
+    <action></action>
+    <callsto blue="4" magenta="17" orange="1" purple="25" red="1" yellow="1" />
+  </_children>
+  <_children active="1" activecalls="1" activeout="1" class="Scribbler_Subroutine" color="yellow" counters="0" subclass="">
+    <_children active="1" activeout="0" class="Scribbler_SubroutineTile" subclass="sub_begin">
+      <action icon="gear_yellow" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 1.85s" timer="1.85" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 1.40s" timer="1.40" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="blue" class="Scribbler_CallTile" subclass="">
+      <action call="blue" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_left" left="-100" right="100" text="-100:100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 2.10s" timer="2.10" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 1.55s" timer="1.55" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="blue" class="Scribbler_CallTile" subclass="">
+      <action call="blue" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_left" left="-100" right="100" text="-100:100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 2.10s" timer="2.10" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 1.70s" timer="1.70" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="blue" class="Scribbler_CallTile" subclass="">
+      <action call="blue" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_left" left="-100" right="100" text="-100:100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 1.95s" timer="1.95" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 1.55s" timer="1.55" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="blue" class="Scribbler_CallTile" subclass="">
+      <action call="blue" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_left" left="-100" right="100" text="-100:100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_SubroutineTile" subclass="sub_end">
+      <action icon="gear_yellow" />
+    </_children>
+    <action></action>
+    <callsfrom green="1" />
+    <callsto blue="4" magenta="4" purple="8" />
+  </_children>
+  <_children active="1" activecalls="1" activeout="1" class="Scribbler_Subroutine" color="orange" counters="0" subclass="">
+    <_children active="1" activeout="0" class="Scribbler_SubroutineTile" subclass="sub_begin">
+      <action icon="gear_orange" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="blue" class="Scribbler_CallTile" subclass="">
+      <action call="blue" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_left" left="-100" right="100" text="-100:100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 2.90s" timer="2.90" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 1.80s" timer="1.80" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 0.70s" timer="0.70" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="blue" class="Scribbler_CallTile" subclass="">
+      <action call="blue" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_left" left="-100" right="100" text="-100:100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 1.60s" timer="1.60" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 0.85s" timer="0.85" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="blue" class="Scribbler_CallTile" subclass="">
+      <action call="blue" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_left" left="-100" right="100" text="-100:100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 1.60s" timer="1.60" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 0.85s" timer="0.85" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="blue" class="Scribbler_CallTile" subclass="">
+      <action call="blue" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_left" left="-100" right="100" text="-100:100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 1.60s" timer="1.60" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 0.90s" timer="0.90" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="blue" class="Scribbler_CallTile" subclass="">
+      <action call="blue" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_left" left="-100" right="100" text="-100:100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 2.05s" timer="2.05" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 2.45s" timer="2.45" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 1.20s" timer="1.20" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="blue" class="Scribbler_CallTile" subclass="">
+      <action call="blue" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_left" left="-100" right="100" text="-100:100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 0.85s" timer="0.85" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 3.95s" timer="3.95" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 0.45s" timer="0.45" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="blue" class="Scribbler_CallTile" subclass="">
+      <action call="blue" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_left" left="-100" right="100" text="-100:100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 2.30s" timer="2.30" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="blue" class="Scribbler_CallTile" subclass="">
+      <action call="blue" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_left" left="-100" right="100" text="-100:100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 0.90s" timer="0.90" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 2.80s" timer="2.80" type="set" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_SubroutineTile" subclass="sub_end">
+      <action icon="gear_orange" />
+    </_children>
+    <action></action>
+    <callsfrom green="1" />
+    <callsto blue="8" magenta="10" purple="19" />
+  </_children>
+  <_children active="1" activecalls="1" activeout="1" class="Scribbler_Subroutine" color="red" counters="0" subclass="">
+    <_children active="1" activeout="0" class="Scribbler_SubroutineTile" subclass="sub_begin">
+      <action icon="gear_red" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 0.35s" timer="0.35" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 1.05s" timer="1.05" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="blue" class="Scribbler_CallTile" subclass="">
+      <action call="blue" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_left" left="-100" right="100" text="-100:100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 1.80s" timer="1.80" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="blue" class="Scribbler_CallTile" subclass="">
+      <action call="blue" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_left" left="-100" right="100" text="-100:100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 1.05s" timer="1.05" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 4.15s" timer="4.15" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 1.10s" timer="1.10" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="blue" class="Scribbler_CallTile" subclass="">
+      <action call="blue" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_left" left="-100" right="100" text="-100:100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 1.80s" timer="1.80" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 0.45s" timer="0.45" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 2.65s" timer="2.65" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 0.50s" timer="0.50" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 1.60s" timer="1.60" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 2.45s" timer="2.45" type="set" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_PauseTile" subclass="">
+      <action call="" icon="pause" text="5.0s" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_fwd" left="100" right="100" text="100:100 2.45s" timer="2.45" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="blue" class="Scribbler_CallTile" subclass="">
+      <action call="blue" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_left" left="-100" right="100" text="-100:100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 0.45s" timer="0.45" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" call="blue" class="Scribbler_CallTile" subclass="">
+      <action call="blue" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_SequencerTile" subclass="">
+      <action call="" icon="tune" tempo="5" text="pq\">
+        <_sequence abbr="pq\" bars="2" class="Scribbler_SoundBite" color="purple" comment="Wedding march" group="Song" notelength="1/4" notetranspose="0" tremolo="0">
+          <_notes dmult="1" duration="500" fmult="1" frequency="391.995435981749" type="note" />
+          <_notes dmult="0.75" duration="453.333333333333" fmult="1" frequency="523.251130601197" type="note" />
+          <_notes dmult="1" duration="35" fmult="1" frequency="0" type="note" />
+          <_notes dmult="0.25" duration="360" fmult="1" frequency="523.251130601197" type="note" />
+          <_notes dmult="1" duration="35" fmult="1" frequency="0" type="note" />
+          <_notes dmult="2" duration="500" fmult="1" frequency="523.251130601197" type="note" />
+          <_notes dmult="1" duration="500" fmult="1" frequency="391.995435981749" type="note" />
+          <_notes dmult="0.75" duration="500" fmult="1" frequency="587.329535834815" type="note" />
+          <_notes dmult="0.25" duration="500" fmult="1" frequency="493.883301256124" type="note" />
+          <_notes dmult="2" duration="500" fmult="1" frequency="523.251130601197" type="note" />
+        </_sequence>
+      </action>
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_left" left="-100" right="100" text="-100:100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_fwd" left="100" right="100" text="100:100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rev" left="-100" right="-100" text="-100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_MotionTile" subclass="">
+      <action call="" icon="move_rot_right" left="100" right="-100" text="100:-100 1.00s" timer="1.00" type="set" />
+    </_children>
+    <_children active="1" activeout="0" call="blue" class="Scribbler_CallTile" subclass="">
+      <action call="blue" />
+    </_children>
+    <_children active="1" activeout="0" call="purple" class="Scribbler_CallTile" subclass="">
+      <action call="purple" />
+    </_children>
+    <_children active="1" activeout="0" call="magenta" class="Scribbler_CallTile" subclass="">
+      <action call="magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_SubroutineTile" subclass="sub_end">
+      <action icon="gear_red" />
+    </_children>
+    <action></action>
+    <callsfrom green="1" />
+    <callsto blue="6" magenta="8" purple="13" />
+  </_children>
+  <_children active="1" activecalls="39" activeout="1" class="Scribbler_Subroutine" color="magenta" counters="0" subclass="">
+    <_children active="1" activeout="0" class="Scribbler_SubroutineTile" subclass="sub_begin">
+      <action icon="gear_magenta" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_LedTile" subclass="">
+      <action>
+        <_states>on</_states>
+        <_states>off</_states>
+        <_states>off</_states>
+      </action>
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_SubroutineTile" subclass="sub_end">
+      <action icon="gear_magenta" />
+    </_children>
+    <action></action>
+    <callsfrom green="17" orange="10" red="8" yellow="4" />
+    <callsto></callsto>
+  </_children>
+  <_children active="1" activecalls="65" activeout="1" class="Scribbler_Subroutine" color="purple" counters="0" subclass="">
+    <_children active="1" activeout="0" class="Scribbler_SubroutineTile" subclass="sub_begin">
+      <action icon="gear_purple" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_LedTile" subclass="">
+      <action>
+        <_states>off</_states>
+        <_states>on</_states>
+        <_states>off</_states>
+      </action>
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_SubroutineTile" subclass="sub_end">
+      <action icon="gear_purple" />
+    </_children>
+    <action></action>
+    <callsfrom green="25" orange="19" red="13" yellow="8" />
+    <callsto></callsto>
+  </_children>
+  <_children active="1" activecalls="22" activeout="1" class="Scribbler_Subroutine" color="blue" counters="0" subclass="">
+    <_children active="1" activeout="0" class="Scribbler_SubroutineTile" subclass="sub_begin">
+      <action icon="gear_blue" />
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_LedTile" subclass="">
+      <action>
+        <_states>off</_states>
+        <_states>off</_states>
+        <_states>on</_states>
+      </action>
+    </_children>
+    <_children active="1" activeout="0" class="Scribbler_SubroutineTile" subclass="sub_end">
+      <action icon="gear_blue" />
+    </_children>
+    <action></action>
+    <callsfrom green="4" orange="8" red="6" yellow="4" />
+    <callsto></callsto>
+  </_children>
+</opt>
